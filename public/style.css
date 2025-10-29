@@ -1,0 +1,36 @@
+      body {
+                margin: 0;
+                height: 100vh;
+                background: url(../assets/smogon.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                background-attachment: fixed;
+                font-family: Arial, sans-serif;
+                color: white;
+                }
+
+            .center {
+                text-align: center;
+            }
+
+            .content-divider {
+                background: rgba(30, 30, 47, 0.85); 
+                border-radius: 15px;
+                padding: 25px 35px;
+                margin: 25px auto;
+                max-width: 1000px;
+                box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            }
+
+            img {
+                border-radius: 100px;
+            }
+
+        
+            .footer {
+                text-align: center;
+                font-size: medium;
+                padding: 20px;
+                color: white;
+            }
